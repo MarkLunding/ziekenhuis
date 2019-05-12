@@ -10,6 +10,5 @@ public class Ziekenhuis {
 		ziekenhuisKamers.add(new Operatiekamer());
 		ziekenhuisKamers.add(new Verkoeverkamer());
 		ziekenhuisKamers.add(new Patientenkamer());
-
 	}
 }
