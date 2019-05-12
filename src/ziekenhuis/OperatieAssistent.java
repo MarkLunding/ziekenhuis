@@ -1,7 +1,7 @@
 package ziekenhuis;
 
 public class OperatieAssistent extends MedischPersoneel{
-	int OperatiestotBijscholing = 2;
+	int OperatiestotBijscholing = 4;
 	
 
 	@Override
@@ -17,7 +17,7 @@ public class OperatieAssistent extends MedischPersoneel{
 	}
 
 	
-	Patient Verdoven (Patient patient) {
+	Void AssisteerOperatie (Chirurg chirurg) {
 		// TODO
 		return null;
 	}
